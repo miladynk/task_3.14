@@ -3,6 +3,7 @@
 LICENSE: [MIT](./license.md)
 
 ![Изображение временно не отображается](./assets/Git%20logo.png)
+
 ---
 
 ### Содержание
@@ -16,7 +17,7 @@ LICENSE: [MIT](./license.md)
 8. [git status](./git%20status.md)
 9. [git commit](./git%20commit.md)
 10. [git push](./git%20push.md)
-11. [other git commands](./other%20git%20commands.md)
+11. [Другие команды git ](./other%20git%20commands.md)
 
 
 ---
