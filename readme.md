@@ -1,4 +1,4 @@
-# Инструкция по работе с Git
+# Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
 
@@ -17,7 +17,7 @@ LICENSE: [MIT](./license.md)
 8. [git status](./git%20status.md)
 9. [git commit](./git%20commit.md)
 10. [git push](./git%20push.md)
-11. [Другие команды git ](./other%20git%20commands.md)
+11. [Другие команды GIT ](./other%20git%20commands.md)
 
 
 ---
